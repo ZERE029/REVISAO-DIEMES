@@ -10,3 +10,8 @@ body{
 img{
     margin-left: 200px;
 }
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    font-size: 50px;
+}
